@@ -12,8 +12,6 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -31,11 +29,11 @@ Users should be able to:
 <br>
 
 **MOBILE (375px)** <br>
-![](./screenshots/Mobile.jpeg)
+![](./screenshots/mobile.jpeg)
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/news-homepage-qrOpoAv7-_)
 - Live Site URL: [Live Site](https://codebymm.github.io/fm_newsHomePage/)
 
 ## My process
